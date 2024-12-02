@@ -1,0 +1,10 @@
+Api_Gateway/node_modules
+Auth_Service/node_modules
+Booking_Service/node_modules
+FlightAndSearch/node_modules
+RemainderService/node_modules
+Api_Gateway/.gitignore
+Auth_Service/.gitignore
+Booking_Service/.gitignore
+FlightAndSearch/.gitignore
+RemainderService/.gitignore
